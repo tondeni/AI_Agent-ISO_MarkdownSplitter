@@ -4,5 +4,5 @@
     "description": "A plugin that parses ISO 26262 Markdown documents and splits them into semantically meaningful chunks based on clause and section headers. Each chunk is labeled with its clause number, section title, and part of the ISO 26262 standard. This structured labeling enables precise and context-aware retrieval during the Retrieval-Augmented Generation (RAG) phase, helping AI agents accurately develop and review functional safety work products",
     "author_name" : "Tonino",
     "tags": "ingestion, splitter, chunking",
-    "thumb": "https://www.kindpng.com/picc/m/714-7144990_document-action-cut-png-download-cut-file-icon.png"
+    "thumb": "https://github.com/tondeni/-AI-Agent-ISO_MarkdownSplitter/blob/master/plugin_icon.jpg"
 }
